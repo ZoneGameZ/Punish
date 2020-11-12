@@ -1,0 +1,15 @@
+name: Punish
+version: 1.0
+main: ZoneGameZ\Punish\Main
+api: 3.0.0
+author: ZoneGameZ
+
+commands:
+ punish:
+  description: Punish Players
+  permission: punish.command
+
+permissions:
+  punish.command:
+    description: Permission
+    default: op

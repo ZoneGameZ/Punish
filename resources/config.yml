@@ -1,0 +1,16 @@
+#[Config]
+
+#Title Form
+Title-Menu: Punish
+
+#Button Form
+Ban-Button: Ban
+Kick-Button: Kick
+
+#Ban Form
+Ban-Title: Ban
+Ban-Input: Enter the names of the players to be banned.
+
+#Kick Form
+Kick-Title: Kick
+Kick-Input: Enter the names of the players to be Kicked.
